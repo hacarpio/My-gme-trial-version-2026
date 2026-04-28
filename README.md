@@ -12,3 +12,7 @@ and performs a parcel–landuse overlay analysis.
 ## Outputs 
 -PostGIS table: 'parcel_landuse_percentage'
 -Visualization in QGIS
+------
+
+-------
+cd
